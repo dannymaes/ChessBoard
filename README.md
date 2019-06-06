@@ -1,2 +1,2 @@
 # ChessBoard
-https://dannymaes.github.io/ChessBoard/
+https://dannymaes.github.io/ChessBoard/chess.html
